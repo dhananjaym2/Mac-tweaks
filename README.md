@@ -1,7 +1,7 @@
 # Mac-tweaks
 Small tweaks, tricks etc to make working in Mac easier.
+*Note: These have been tested on a Mac running macOS Mojave.*
 
+1. Show all files and folders(including hidden) in Finder: `defaults write com.apple.Finder AppleShowAllFiles YES` then click `command+shift+esc` to open Force Quit Applications window then select `Finder`(usually the last one in the list) click `Relaunch`  button and then `Relaunch` on the pop-up which appeared on the previous click. [Source: gotoes.org](https://gotoes.org/sales/ShowHiddenFilesMacOSX/How_To_Show_Hidden_Files.php)
 
-1. Show all files and folders(including hidden) in Finder: `defaults write com.apple.Finder AppleShowAllFiles YES` [Source: gotoes](https://gotoes.org/sales/ShowHiddenFilesMacOSX/How_To_Show_Hidden_Files.php)
-
-1. To save a file with your custom extension in TextEdit application in the app's menu bar click: `Format` > `Make Plain Text` OR just click `Shift+command+T`
+1. To save a file with your custom extension in TextEdit application, in the app's menu bar click: `Format` > `Make Plain Text` OR just click `shift+command+T` from your keyboard.
